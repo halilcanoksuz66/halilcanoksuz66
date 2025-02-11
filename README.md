@@ -2,7 +2,9 @@
 
 🔧 **Yazılım Geliştiricisi | Full Stack Developer | React Native & Flutter Geliştiricisi**
 
-Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, Javascript, Flutter, React** gibi teknolojilerde uzmanlaştım.
+Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, Javascript, Flutter, React** gibi teknolojilerde uzmanlaşıyorum.
+
+Bilgisayar mühendisliği 4. sınıf öğrencisi lisans eğitimimin son dönemindeyim ve yalnızca bir dersim kaldığından dolayı aktif bir üniversite yükümlülüğüm bulunmamaktadır. ** Bu sebeple, 1 aylık zorunlu stajımı yaptıktan sonra üniversiteye gitme yükümlülüğüm bulunmadığından dolayı uzun süreli ve yoğun tempolu staj programına tam zamanlı olarak katılmaya hazırım.
 
 🌱 **Şu anda çalıştığım konular:**
 - React & TypeScript & React Native
@@ -16,8 +18,13 @@ Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve
 ---
 
 📈 **Yaptığım projeler:**
-- [Amazon Clone](link)
-- [YouTube Clone](link)
+- [Online-Auction-System](https://github.com/halilcanoksuz66/Online-Auction-System)
+- [Amazon-E-commerce]([link](https://github.com/halilcanoksuz66/Amazon-E-commerce))
+- [Online-Auction-System](link)
+- [Online-Auction-System](link)
+- [Online-Auction-System](link)
+- [Online-Auction-System](link)
+
 
 ---
 
