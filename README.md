@@ -2,44 +2,48 @@
 
 🔧 **Yazılım Geliştiricisi | Full Stack Developer | React Native & Flutter Geliştiricisi**
 
-Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, Javascript, Flutter, React** gibi teknolojilerde uzmanlaşıyorum.
+Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, JavaScript, Flutter, React** gibi teknolojilerde uzmanlaşıyorum.
 
-Bilgisayar mühendisliği 4. sınıf öğrencisi lisans eğitimimin son dönemindeyim ve yalnızca bir dersim kaldığından dolayı aktif bir üniversite yükümlülüğüm bulunmamaktadır. ** Bu sebeple, 1 aylık zorunlu stajımı yaptıktan sonra üniversiteye gitme yükümlülüğüm bulunmadığından dolayı uzun süreli ve yoğun tempolu staj programına tam zamanlı olarak katılmaya hazırım.
-
-🌱 **Şu anda çalıştığım konular:**
-- React & TypeScript & React Native
-- API Entegrasyonları
-- Yapay Zeka ve Makine Öğrenimi
-
-## 📚 Haziran ayına kadar yapacaklarım
-- React nativeden bir mobil uygulama çıkarmak
-- Doğal dil işleme projesi gerçekleştirmek
+🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** ve yalnızca bir dersim kaldığından dolayı aktif bir üniversite yükümlülüğüm bulunmamaktadır. **Bu sebeple, 1 aylık zorunlu stajımı tamamladıktan sonra uzun süreli ve yoğun tempolu staj programlarına tam zamanlı olarak katılmaya hazırım.**
 
 ---
 
-📈 **Yaptığım projeler:**
-- [Online-Auction-System](https://github.com/halilcanoksuz66/Online-Auction-System)
-- [Amazon-E-commerce](https://github.com/halilcanoksuz66/Amazon-E-commerce)
-- [Face-Emotion-recognotion](https://github.com/halilcanoksuz66/Face-Emotion-Recognotion)
-- [AI-Model-Builder](https://github.com/halilcanoksuz66/AI-Model-Builder)
-- [Online-Auction-System](link)
-- [Online-Auction-System](link)
+## 🌱 Şu Anda Çalıştığım Konular
+- **React, TypeScript ve React Native**
+- **API Entegrasyonları**
+- **Yapay Zeka ve Makine Öğrenimi**
 
-
----
-
-## 🚀 Geliştirdiğim Teknolojiler
-
-<img src="https://img.shields.io/badge/JavaScript-1f6e62?style=flat&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-1f6e62?style=flat&logo=react" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React%20Native-61dafb?style=flat&logo=react" alt="React Native" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter" alt="Flutter" />
+## 🎯 Haziran Ayına Kadar Yapacaklarım
+✅ **React Native ile bir mobil uygulama geliştirmek**  
+✅ **Doğal dil işleme projesi gerçekleştirmek**
 
 ---
 
+## 📈 Yaptığım Projeler
+- 🛒 [Amazon E-commerce](https://github.com/halilcanoksuz66/Amazon-E-commerce)
+- 🔍 [Face Emotion Recognition](https://github.com/halilcanoksuz66/Face-Emotion-Recognotion)
+- 🤖 [AI Model Builder](https://github.com/halilcanoksuz66/AI-Model-Builder)
+- 🏆 [Online Auction System](https://github.com/halilcanoksuz66/Online-Auction-System)
 
-⭐ **Hakkımda:**
-Son bir yılda yazılım dünyasında kendimi geliştirmeye odaklandım. Web ve mobil uygulama geliştirme konusunda güçlü bir temel oluşturdum ve şimdi bu bilgileri daha büyük projelere dönüştürmeyi hedefliyorum!
+---
 
-🧑‍💻 **Kodlarımı takip etmekten çekinme, her zaman bir şeyler öğrenebilirsin!**
+## 🚀 Kullandığım Teknolojiler
+
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+</div>
+
+---
+
+## ⭐ Hakkımda
+Son bir yılda yazılım dünyasında kendimi geliştirmeye odaklandım. Web ve mobil uygulama geliştirme konusunda güçlü bir temel oluşturdum ve şimdi bu bilgileri daha büyük projelere dönüştürmeyi hedefliyorum! 
+
+📫 **Benimle iletişime geçmekten çekinme!**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/halilcanoksuz/) • 🔗 [GitHub](https://github.com/halilcanoksuz66) • ✉️ [E-posta](halilcanoksuz66@gmail.com)
+
+🧑‍💻 **Kodlarımı takip etmekten çekinme, her zaman bir şeyler öğrenebilirsin!** 🚀
