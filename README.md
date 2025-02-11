@@ -11,7 +11,7 @@ Bilgisayar mühendisliği 4. sınıf öğrencisi lisans eğitimimin son dönemin
 - API Entegrasyonları
 - Yapay Zeka ve Makine Öğrenimi
 
-## 📚 Hedeflerim haziran ayına kadar
+## 📚 Haziran ayına kadar yapacaklarım
 - React nativeden bir mobil uygulama çıkarmak
 - Doğal dil işleme projesi gerçekleştirmek
 
@@ -19,8 +19,8 @@ Bilgisayar mühendisliği 4. sınıf öğrencisi lisans eğitimimin son dönemin
 
 📈 **Yaptığım projeler:**
 - [Online-Auction-System](https://github.com/halilcanoksuz66/Online-Auction-System)
-- [Amazon-E-commerce]([link](https://github.com/halilcanoksuz66/Amazon-E-commerce))
-- [Online-Auction-System](link)
+- [Amazon-E-commerce](https://github.com/halilcanoksuz66/Amazon-E-commerce)
+- [Face-Emotion-recognotion](https://github.com/halilcanoksuz66/Face-Emotion-Recognotion)
 - [Online-Auction-System](link)
 - [Online-Auction-System](link)
 - [Online-Auction-System](link)
