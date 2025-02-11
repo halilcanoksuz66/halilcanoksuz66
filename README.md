@@ -4,7 +4,7 @@
 
 Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, JavaScript, Flutter, React** gibi teknolojilerde uzmanlaşıyorum.
 
-🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** ve yalnızca bir dersim kaldığından dolayı aktif bir üniversite yükümlülüğüm bulunmamaktadır. **Bu sebeple, 1 aylık zorunlu stajımı tamamladıktan sonra uzun süreli ve yoğun tempolu staj programlarına tam zamanlı olarak katılmaya hazırım.**
+🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** ve yalnızca bir dersim kaldığından dolayı aktif bir üniversite yükümlülüğüm bulunmamaktadır. **Bu sebeple, 1 aylık zorunlu yaz stajımı tamamladıktan sonra uzun süreli ve yoğun tempolu staj programlarına tam zamanlı olarak katılmaya hazırım.**
 
 ---
 
