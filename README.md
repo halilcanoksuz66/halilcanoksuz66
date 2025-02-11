@@ -2,7 +2,7 @@
 
 🔧 **Yazılım Geliştiricisi | Full Stack Developer | React Native & Flutter Geliştiricisi**
 
-Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **React, React Native, Flutter, JavaScript, TypeScript** gibi teknolojilerde uzmanlaştım.
+Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, Javascript, Flutter, React** gibi teknolojilerde uzmanlaştım.
 
 🌱 **Şu anda çalıştığım konular:**
 - React & TypeScript & React Native
