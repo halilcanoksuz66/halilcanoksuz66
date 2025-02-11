@@ -21,7 +21,7 @@ Bilgisayar mühendisliği 4. sınıf öğrencisi lisans eğitimimin son dönemin
 - [Online-Auction-System](https://github.com/halilcanoksuz66/Online-Auction-System)
 - [Amazon-E-commerce](https://github.com/halilcanoksuz66/Amazon-E-commerce)
 - [Face-Emotion-recognotion](https://github.com/halilcanoksuz66/Face-Emotion-Recognotion)
-- [Online-Auction-System](link)
+- [AI-Model-Builder]([link](https://github.com/halilcanoksuz66/AI-Model-Builder))
 - [Online-Auction-System](link)
 - [Online-Auction-System](link)
 
