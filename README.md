@@ -2,20 +2,20 @@
 
 🔧 **Yazılım Geliştiricisi | Full Stack Developer | React Native & Flutter Geliştiricisi**
 
-Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konusunda derin bir bilgiye sahibim, özellikle **HTML, CSS, JavaScript, Flutter, React** gibi teknolojilerde uzmanlaşıyorum.
+Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konuları ile ilgileniyorum, Özellikle **HTML, CSS, JavaScript, Flutter, React** gibi teknolojilere yoğunlaşmaktayım.
 
-🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** ve yalnızca bir dersim kaldığından dolayı aktif bir üniversite yükümlülüğüm bulunmamaktadır. **Bu sebeple, 1 aylık zorunlu yaz stajımı tamamladıktan sonra uzun süreli ve yoğun tempolu staj programlarına tam zamanlı olarak katılmaya hazırım.**
+🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** . **1 aylık zorunlu yaz stajımı tamamladıktan sonra uzun süreli ve yoğun tempolu staj programlarına tam zamanlı olarak katılmaya hazırım.**
 
 ---
 
-## 🌱 Şu Anda Çalıştığım Konular
+## 🎯 Şu anda odaklandığım konular
+✅ **ASP.NET CORE**  
+✅ **Doğal dil işleme projesi gerçekleştirmek**
+
+## 🌱 Çalışacağım Konular
 - **React, TypeScript ve React Native**
 - **API Entegrasyonları**
-- **Yapay Zeka ve Makine Öğrenimi**
-
-## 🎯 Haziran Ayına Kadar Yapacaklarım
-✅ **React Native ile bir mobil uygulama geliştirmek**  
-✅ **Doğal dil işleme projesi gerçekleştirmek**
+- **Derin Öğrenme**
 
 ---
 
@@ -40,7 +40,7 @@ Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve
 ---
 
 ## ⭐ Hakkımda
-Son bir yılda yazılım dünyasında kendimi geliştirmeye odaklandım. Web ve mobil uygulama geliştirme konusunda güçlü bir temel oluşturdum ve şimdi bu bilgileri daha büyük projelere dönüştürmeyi hedefliyorum! 
+Son bir yılda yazılım dünyasında kendimi geliştirmeye odaklandım. Web ve mobil uygulama geliştirme konusunda bir temel oluşturdum ve şimdi bu bilgileri daha büyük projelere dönüştürmeyi hedefliyorum! 
 
 📫 **Benimle iletişime geçmekten çekinme!**
 
