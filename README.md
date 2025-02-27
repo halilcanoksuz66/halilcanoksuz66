@@ -9,7 +9,7 @@ Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve
 ---
 
 ## 🎯 Şu anda odaklandığım konular
-✅ **ASP.NET CORE**  
+✅ **QT6 with C++**  
 ✅ **Doğal dil işleme projesi gerçekleştirmek**
 
 ## 🌱 Çalışacağım Konular
