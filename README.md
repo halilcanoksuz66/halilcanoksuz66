@@ -2,14 +2,18 @@
 
 🔧 **Yazılım Geliştiricisi | Full Stack Developer | React Native & Flutter Geliştiricisi**
 
-Ben Halil, yazılım geliştirmeye olan tutkum sayesinde sürekli öğrenmeye ve gelişmeye odaklanan bir yazılımcıyım. Web ve mobil uygulama geliştirme konuları ile ilgileniyorum, Özellikle **HTML, CSS, JavaScript, Flutter, React** gibi teknolojilere yoğunlaşmaktayım.
+Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştirmeye çalışan bir geliştiriciyim. Web ve mobil uygulama geliştirme alanlarına özellikle ilgi duyuyorum.  
+**HTML, CSS, JavaScript, Flutter ve React** gibi teknolojilerle projeler geliştirdim. Şu anda ise **C++ ve Qt5** ile masaüstü uygulama geliştirme üzerine çalışıyorum.
 
-🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim** . **1 aylık zorunlu yaz stajımı tamamladıktan sonra uzun süreli ve yoğun tempolu staj programlarına tam zamanlı olarak katılmaya hazırım.**
+🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**  
+**2025 Bahar döneminde Simsoft Computer Technologies'de zorunlu stajımı yapmaktayım.**  
+15 Mayıs'ta stajım tamamlanacak ve ardından tekrar uzun süreli, yoğun tempolu bir staj programına **tam zamanlı** olarak katılmaya hazırım.
+
 
 ---
 
 ## 🎯 Şu anda odaklandığım konular
-✅ **QT6 with C++**  
+✅ **QT5 with C++**  
 ✅ **Doğal dil işleme projesi gerçekleştirmek**
 
 ## 🌱 Çalışacağım Konular
