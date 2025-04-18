@@ -6,6 +6,7 @@ Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştir
 **HTML, CSS, JavaScript, Flutter ve React** gibi teknolojilerle projeler geliştirdim. Şu anda ise **C++ ve Qt5** ile masaüstü uygulama geliştirme üzerine çalışıyorum.
 
 🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**  
+
 **2025 Bahar döneminde Simsoft Computer Technologies'de zorunlu stajımı yapmaktayım.**  
 15 Mayıs'ta stajım tamamlanacak ve ardından tekrar uzun süreli, yoğun tempolu bir staj programına **tam zamanlı** olarak katılmaya hazırım.
 
