@@ -23,12 +23,12 @@ Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştir
 
 ---
 
-## 📈 Yaptığım Projeler
+## 📈 Yaptığım Bazı Projeler
 - 🛒 [Amazon E-commerce](https://github.com/halilcanoksuz66/Amazon-E-commerce)
 - 🔍 [Face Emotion Recognition](https://github.com/halilcanoksuz66/Face-Emotion-Recognotion)
 - 🤖 [AI Model Builder](https://github.com/halilcanoksuz66/AI-Model-Builder)
 - 🏆 [Online Auction System](https://github.com/halilcanoksuz66/Online-Auction-System)
-
+- 🐦 [Tweet Sentiment Analysis](https://github.com/halilcanoksuz66/Tweet-Sentiment-Analysis)
 ---
 
 ## 🚀 Kullandığım Teknolojiler
