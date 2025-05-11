@@ -1,9 +1,9 @@
 # 👋 Merhaba! Ben Halil Öksüz
 
-🔧 **Yazılım Geliştiricisi | Full Stack Developer | React Native & Flutter Geliştiricisi**
+🧠 **Makine Öğrenmesi & AI Odaklı Yazılım Geliştirici | C++ / Python / Qt**
 
-Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştirmeye çalışan bir geliştiriciyim. Web ve mobil uygulama geliştirme alanlarına özellikle ilgi duyuyorum.  
-**HTML, CSS, JavaScript, Flutter ve React** gibi teknolojilerle projeler geliştirdim. Şu anda ise **C++ ve Qt5** ile masaüstü uygulama geliştirme üzerine çalışıyorum.
+Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştirmeye çalışan bir geliştiriciyim. **Flutter, JavaScript, QT , C++ ve Python** gibi teknolojilerle projeler geliştirdim. Şu anda C++ ve Qt ile masaüstü uygulama geliştirme üzerine çalışıyorum ve yapay zeka ile ilgili projeler üzerinde yoğunlaşıyorum.  
+
 
 🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**  
 
@@ -18,9 +18,8 @@ Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştir
 ✅ **Doğal dil işleme projesi gerçekleştirmek**
 
 ## 🌱 Çalışacağım Konular
-- **React, TypeScript ve React Native**
-- **API Entegrasyonları**
-- **Derin Öğrenme**
+- **AWS ve Bulut Bilişim: Bu sene içerisinde AWS servisleri ile proje geliştirerek bulut üzerinde uygulama yönetimi ve dağıtımı konularında yetkinlik kazanacağım.**
+- **Derin Öğrenme: CNN, RNN ve Transformer mimarileri gibi temel yapı taşlarını öğrenip, proje temelli ilerleyerek uygulamalı yapay zeka geliştirme pratiği kazanacağım.**
 
 ---
 
@@ -43,9 +42,6 @@ Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştir
 </div>
 
 ---
-
-## ⭐ Hakkımda
-Son bir yılda yazılım dünyasında kendimi geliştirmeye odaklandım. Web ve mobil uygulama geliştirme konusunda bir temel oluşturdum ve şimdi bu bilgileri daha büyük projelere dönüştürmeyi hedefliyorum! 
 
 📫 **Benimle iletişime geçmekten çekinme!**
 
