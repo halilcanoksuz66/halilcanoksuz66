@@ -7,8 +7,8 @@ Ben Halil, yazılım geliştirmeye duyduğum tutkuyla sürekli kendini geliştir
 
 🎓 **Bilgisayar Mühendisliği 4. sınıf öğrencisiyim.**  
 
-**2025 Bahar döneminde Simsoft Computer Technologies'de zorunlu stajımı yapmaktayım.**  
-15 Mayıs'ta stajım tamamlanacak ve ardından tekrar uzun süreli, yoğun tempolu bir staj programına **tam zamanlı** olarak katılmaya hazırım.
+**2025 Bahar döneminde Simsoft Computer Technologies'de zorunlu stajımı tamamladım**  
+Tekrar uzun süreli, yoğun tempolu bir çalışma programına **tam zamanlı** olarak katılmaya hazırım.
 
 
 ---
